@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="MANIFEST.MF:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/MANIFEST_MF_jar</output-path>
+    <root id="archive" name="MANIFEST.MF.jar">
+      <element id="module-output" name="Use_Java_langusge_do_subject01" />
+    </root>
+  </artifact>
+</component>
